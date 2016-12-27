@@ -1,0 +1,145 @@
+﻿#bodylogin {
+    font-family: 'Verdana';
+    background-color: #177cae; /*blue*/
+}
+
+#h1login {
+    font-family: 'Verdana';
+    color: white;
+    margin-left: 161px;
+    height: 75px;
+    width: 381px;
+}
+
+.divlogin {
+    background-color: white;
+    border-style: double;
+    border-color: grey;
+    color: #6b6a6a; /*light-grey*/
+}
+
+#btnInloggen {
+    background-color: white;
+    border: 5px, #423939; /*dark-grey*/
+    /*color: #6b6a6a; light-grey*/
+    text-align: center;
+    text-decoration: none;
+    font-family: Helvetica;
+}
+
+#lblMessages {
+    color: #c02926; /*darker-red*/
+}
+
+
+#divHeader {
+    font-family: 'Verdana';
+    background-color: #177cae; /*blue*/
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    height: 178px;
+    width: 1653px;
+}
+
+#LblWelkom {
+    font-family: 'Verdana';
+    color: #164258; /*darkblue*/
+    font-size: 32px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#leftMenu {
+    font-family: 'Verdana';
+    color: #164258; /*blue*/
+    font-size: 16px;
+    font-weight: bold;
+}
+
+ #leftMenu :visited, :link {
+ font-family: 'Verdana';
+ color: #164258; /*blue*/
+ font-size: 16px;
+font-weight: bold;
+    }
+
+#leftMenu :hover {
+        font-family: 'Verdana';
+        color: #088DA5; /*light-blue*/
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+
+
+/*leftmenu list*/
+li {
+    margin-bottom: 25px;
+    text-decoration: none;
+}
+
+#lblLoggedIn {
+    font-family: 'Verdana';
+    color: white;
+    text-align: right;
+}
+
+#lblSessUser, #lblLoggedIn {
+    font-family: 'Verdana';
+    color: white;
+    font-size:16px;
+    text-align: center;
+}
+
+#btnAddNew, #btnExport, #btnSave, #btnClose {
+    background-color: #386598; /*tableblue*/
+    border: 5px, #423939; /*dark-grey*/
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+.btnEdit{
+    background-color: #386598; /*tableblue*/
+    border: 5px, #423939; /*dark-grey*/
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana;
+    font-weight: bold;
+    align-items: center; 
+
+} 
+
+#GridRegistration{
+    font-family: Verdana;
+    margin-left: 0px;
+}
+
+
+#tblNewReg{
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold;
+     color: #164258; /*darkblue*/
+}
+
+#lblNewReg{
+    font-family: 'Verdana';
+    color: #164258; /*darkblue*/
+    font-size: 22px;
+    font-weight: bold;
+    display: inline-block;
+
+}
+
+#lblRequired{
+    font-family: 'Verdana';
+    color: #164258; /*darkblue*/
+    font-size: 12px;
+    font-weight: bold;
+}
+
